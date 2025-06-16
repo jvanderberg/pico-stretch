@@ -1,0 +1,80 @@
+(footprint "Castellated Pad"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.5 -1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "92229d5b-74ec-44e5-ba05-a8852f350028")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Castellated Pad"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54e9b193-d15a-4380-996a-e4fb246ae34f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5b1bbba-a8be-4a5c-879d-7f3e732a425c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d3f54b6-abb3-465f-bc74-e6f9d3a64253")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(pad "1" thru_hole oval
+		(at 0 -2.5)
+		(size 1.542 3.048)
+		(drill 0.9145
+			(offset 0 0.635)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "da8b36d0-b56b-4411-8410-42492e9af49a")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -1)
+		(size 1.524 1.524)
+		(drill 0.9145)
+		(property pad_prop_castellated)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "45f41096-d677-41f6-be65-08e1686f51b9")
+	)
+	(embedded_fonts no)
+)
