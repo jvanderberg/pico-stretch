@@ -1,4 +1,4 @@
-26041592966193425
+26053844493908155
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59157,6 +59157,20 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 EasyEDA
+C0402
+
+
+0
+2
+2
+EasyEDA
+CONN-SMD_3P-P1.0-HC-1.0-3PWT
+
+
+0
+5
+5
+EasyEDA
 CONN-SMD_SM03B-SRSS-TB-LF-SN-P
 
 
@@ -59172,6 +59186,20 @@ D0402-BI
 2
 EasyEDA
 IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T
+
+
+0
+2
+2
+EasyEDA
+KEY-SMD_4P-L4.2-W3.2-P2.20-LS5.1-TL
+
+
+0
+4
+4
+EasyEDA
+LED0402-RD
 
 
 0
@@ -59198,6 +59226,27 @@ SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL
 0
 8
 8
+EasyEDA
+SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
+
+
+0
+5
+5
+EasyEDA
+USB-C-SMD_TYPE-C-6PIN-2MD-073
+
+
+0
+18
+14
+EasyEDA
+WLBGA-63_L4.8-W2.8-P0.40-BL_CYW43438KUBGT
+
+
+0
+63
+63
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
