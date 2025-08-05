@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "RP2350 Dev Board")(type "KiCad")(uri "${KIPRJMOD}/RP2350 Dev Board.pretty")(options "")(descr ""))
   (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.pretty/EasyEDA.pretty")(options "")(descr ""))
+  (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.pretty")(options "")(descr ""))
 )
