@@ -301,7 +301,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Custom:Pads_1x33_P2.54mm_Vertical"
+			(property "Footprint" "Custom:Pads_1x33_P2.54mm_Vertical_2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -352,7 +352,7 @@
 					(end 1.27 -41.91)
 					(stroke
 						(width 0.254)
-						(type default)
+						(type solid)
 					)
 					(fill
 						(type background)
@@ -733,14 +733,14 @@
 				(pin passive line
 					(at -5.08 38.1 0)
 					(length 3.81)
-					(name "Pin_33"
+					(name "33"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "33"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -751,14 +751,14 @@
 				(pin passive line
 					(at -5.08 35.56 0)
 					(length 3.81)
-					(name "Pin_34"
+					(name "34"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "34"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -769,14 +769,14 @@
 				(pin passive line
 					(at -5.08 33.02 0)
 					(length 3.81)
-					(name "Pin_35"
+					(name "35"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "35"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -787,14 +787,14 @@
 				(pin passive line
 					(at -5.08 30.48 0)
 					(length 3.81)
-					(name "Pin_36"
+					(name "36"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "36"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -805,14 +805,14 @@
 				(pin passive line
 					(at -5.08 27.94 0)
 					(length 3.81)
-					(name "Pin_37"
+					(name "37"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "37"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -823,14 +823,14 @@
 				(pin passive line
 					(at -5.08 25.4 0)
 					(length 3.81)
-					(name "Pin_38"
+					(name "38"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "38"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -841,14 +841,14 @@
 				(pin passive line
 					(at -5.08 22.86 0)
 					(length 3.81)
-					(name "Pin_39"
+					(name "39"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "39"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -859,14 +859,14 @@
 				(pin passive line
 					(at -5.08 20.32 0)
 					(length 3.81)
-					(name "Pin_40"
+					(name "40"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "40"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -877,14 +877,14 @@
 				(pin passive line
 					(at -5.08 17.78 0)
 					(length 3.81)
-					(name "Pin_41"
+					(name "41"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "41"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -895,14 +895,14 @@
 				(pin passive line
 					(at -5.08 15.24 0)
 					(length 3.81)
-					(name "Pin_42"
+					(name "42"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "42"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -913,14 +913,14 @@
 				(pin passive line
 					(at -5.08 12.7 0)
 					(length 3.81)
-					(name "Pin_43"
+					(name "43"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "43"
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -931,14 +931,14 @@
 				(pin passive line
 					(at -5.08 10.16 0)
 					(length 3.81)
-					(name "Pin_44"
+					(name "44"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "44"
+					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -949,14 +949,14 @@
 				(pin passive line
 					(at -5.08 7.62 0)
 					(length 3.81)
-					(name "Pin_45"
+					(name "45"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "45"
+					(number "13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -967,14 +967,14 @@
 				(pin passive line
 					(at -5.08 5.08 0)
 					(length 3.81)
-					(name "Pin_46"
+					(name "46"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "46"
+					(number "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -985,14 +985,14 @@
 				(pin passive line
 					(at -5.08 2.54 0)
 					(length 3.81)
-					(name "Pin_47"
+					(name "47"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "47"
+					(number "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1003,14 +1003,14 @@
 				(pin passive line
 					(at -5.08 0 0)
 					(length 3.81)
-					(name "Pin_48"
+					(name "48"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "48"
+					(number "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1021,14 +1021,14 @@
 				(pin passive line
 					(at -5.08 -2.54 0)
 					(length 3.81)
-					(name "Pin_49"
+					(name "49"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "49"
+					(number "17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1039,14 +1039,14 @@
 				(pin passive line
 					(at -5.08 -5.08 0)
 					(length 3.81)
-					(name "Pin_50"
+					(name "50"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "50"
+					(number "18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1057,14 +1057,14 @@
 				(pin passive line
 					(at -5.08 -7.62 0)
 					(length 3.81)
-					(name "Pin_51"
+					(name "51"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "51"
+					(number "19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1075,14 +1075,14 @@
 				(pin passive line
 					(at -5.08 -10.16 0)
 					(length 3.81)
-					(name "Pin_52"
+					(name "52"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "52"
+					(number "20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1093,14 +1093,14 @@
 				(pin passive line
 					(at -5.08 -12.7 0)
 					(length 3.81)
-					(name "Pin_53"
+					(name "53"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "53"
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1111,14 +1111,14 @@
 				(pin passive line
 					(at -5.08 -15.24 0)
 					(length 3.81)
-					(name "Pin_54"
+					(name "54"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "54"
+					(number "22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1129,14 +1129,14 @@
 				(pin passive line
 					(at -5.08 -17.78 0)
 					(length 3.81)
-					(name "Pin_55"
+					(name "55"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "55"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1147,14 +1147,14 @@
 				(pin passive line
 					(at -5.08 -20.32 0)
 					(length 3.81)
-					(name "Pin_56"
+					(name "56"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "56"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1165,14 +1165,14 @@
 				(pin passive line
 					(at -5.08 -22.86 0)
 					(length 3.81)
-					(name "Pin_57"
+					(name "57"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "57"
+					(number "25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1183,14 +1183,14 @@
 				(pin passive line
 					(at -5.08 -25.4 0)
 					(length 3.81)
-					(name "Pin_58"
+					(name "58"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "58"
+					(number "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1201,14 +1201,14 @@
 				(pin passive line
 					(at -5.08 -27.94 0)
 					(length 3.81)
-					(name "Pin_59"
+					(name "59"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "59"
+					(number "27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1219,14 +1219,14 @@
 				(pin passive line
 					(at -5.08 -30.48 0)
 					(length 3.81)
-					(name "Pin_60"
+					(name "60"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "60"
+					(number "28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1237,14 +1237,14 @@
 				(pin passive line
 					(at -5.08 -33.02 0)
 					(length 3.81)
-					(name "Pin_61"
+					(name "61"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "61"
+					(number "29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1255,14 +1255,14 @@
 				(pin passive line
 					(at -5.08 -35.56 0)
 					(length 3.81)
-					(name "Pin_62"
+					(name "62"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "62"
+					(number "30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1273,14 +1273,14 @@
 				(pin passive line
 					(at -5.08 -38.1 0)
 					(length 3.81)
-					(name "Pin_63"
+					(name "63"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "63"
+					(number "31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1291,14 +1291,14 @@
 				(pin passive line
 					(at -5.08 -40.64 0)
 					(length 3.81)
-					(name "Pin_64"
+					(name "64"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "64"
+					(number "32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -36329,100 +36329,100 @@
 				(hide yes)
 			)
 		)
-		(pin "33"
+		(pin "32"
 			(uuid "efc71010-92cb-47f2-b9ff-6395c16e19cc")
 		)
-		(pin "34"
+		(pin "31"
 			(uuid "fb9046d2-3926-49ab-b33b-f536c4756def")
 		)
-		(pin "35"
+		(pin "30"
 			(uuid "3638bfe8-b277-4bb0-84a4-c2e32db22e57")
 		)
-		(pin "36"
+		(pin "29"
 			(uuid "b945e1f4-8207-439a-8f09-ebdc0e857dad")
 		)
-		(pin "37"
+		(pin "28"
 			(uuid "5a0c121c-3ef6-4d67-a4b0-eae815402677")
 		)
-		(pin "38"
+		(pin "27"
 			(uuid "d4b62514-395e-44ad-9fbc-bb400e31b607")
 		)
-		(pin "39"
+		(pin "26"
 			(uuid "9e80f168-12c1-4ecf-a1d1-377254d99755")
 		)
-		(pin "40"
+		(pin "25"
 			(uuid "986a6417-01b4-47e8-be67-a892328fdb4a")
 		)
-		(pin "41"
+		(pin "24"
 			(uuid "7282b07b-3162-4770-8e5c-c6177710fe81")
 		)
-		(pin "42"
+		(pin "23"
 			(uuid "31d46f30-0f88-4bae-bccd-892777b7a59b")
 		)
-		(pin "43"
+		(pin "22"
 			(uuid "902f4542-58fc-433c-a155-f4a9d77444bf")
 		)
-		(pin "44"
+		(pin "21"
 			(uuid "adffd961-53f0-4601-922a-08bedad65794")
 		)
-		(pin "45"
+		(pin "20"
 			(uuid "8cca0219-a68b-4784-9809-67303b1235b4")
 		)
-		(pin "46"
+		(pin "19"
 			(uuid "cf2e9778-83c0-485f-a1a7-9a74bbb7d432")
 		)
-		(pin "47"
+		(pin "18"
 			(uuid "fa7028f2-091c-4d80-8445-8cdc97aa8a35")
 		)
-		(pin "48"
+		(pin "17"
 			(uuid "ae40a41b-41c9-4b5b-be2a-7363d1ca60fa")
 		)
-		(pin "49"
+		(pin "16"
 			(uuid "d593adea-e7a4-468c-aca3-1ad217c9da98")
 		)
-		(pin "50"
+		(pin "15"
 			(uuid "e2ffd0fc-2a5c-4741-bed2-31d3e1a2247d")
 		)
-		(pin "51"
+		(pin "14"
 			(uuid "fc4ede8d-ba70-40cb-80f4-c738cde31bb3")
 		)
-		(pin "52"
+		(pin "13"
 			(uuid "62b1abb1-4520-4875-ab96-540a22fb2f94")
 		)
-		(pin "53"
+		(pin "12"
 			(uuid "500f0d87-ff6b-49eb-832a-ffcbfe430b84")
 		)
-		(pin "54"
+		(pin "11"
 			(uuid "59175bf3-b8be-4abd-b5f9-dd7aa03f606e")
 		)
-		(pin "55"
+		(pin "10"
 			(uuid "482e4824-1891-4e17-924b-719c3d77bb9c")
 		)
-		(pin "56"
+		(pin "9"
 			(uuid "49538b97-6025-48d8-b3c3-814c30a573a4")
 		)
-		(pin "57"
+		(pin "8"
 			(uuid "44574dc5-cc90-4790-bf2d-6246a096366e")
 		)
-		(pin "58"
+		(pin "7"
 			(uuid "7aed50c7-5f51-4c03-b6e5-55ad16f71325")
 		)
-		(pin "59"
+		(pin "6"
 			(uuid "825fc792-b824-496f-afba-f51d2280ff6e")
 		)
-		(pin "60"
+		(pin "5"
 			(uuid "42fa68a2-3bb9-4a62-9062-1a5bafa8c0be")
 		)
-		(pin "61"
+		(pin "4"
 			(uuid "12bdd45a-4729-4870-9be8-dd5d9db19b5a")
 		)
-		(pin "62"
+		(pin "3"
 			(uuid "4f6b16fe-754d-4b02-bb03-b1fd128ea73e")
 		)
-		(pin "63"
+		(pin "2"
 			(uuid "3c3d1df8-adc1-41c6-84f1-f5434ca9ad91")
 		)
-		(pin "64"
+		(pin "1"
 			(uuid "21e678c2-f09b-40e3-82a3-b59b89db0e75")
 		)
 		(pin "MP"
