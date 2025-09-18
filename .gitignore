@@ -1,4 +1,6 @@
 *.lck
 .DS_Store
-*-backups
+*backups
 production/backups/*
+*-bak
+*prl
