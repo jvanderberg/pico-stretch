@@ -1,48 +1,50 @@
-# RP2350B-Dev-Board
+# Pico Stretch
 
 This is an RP2350B Dev board that breaks out all 48 GPIO pins.
 
-It follows the original footprint of the RP2040 dev board, but adds 10 pins on each side.
+It follows the original footprint of the RP2040 dev board, but adds 12 pins on each side.
 
 Pinout:
 
 ```
-1	GPIO0	        60	VBUS
-2	GPIO1	        59	VSYS
-3	GPIO2	        58	GND
-4	GPIO3	        57	3v3
-5	GPIO4	        56	3v3_EN
-6	GPIO5	        55	ADC_VREF
-7	GPIO6	        54	GND
-8	GPIO7	        53	GPIO47/ADC7
-9	GPIO8	        52	GPIO46/ADC6
-10	GPIO9	        51	GPIO45/ADC5
-11	GND	            50	GND
-12	GPIO10	        49	GPIO44/ADC4
-13	GPIO11	        48	GPIO43/ADC3
-14	GPIO12	        47	GPIO42/ADC2
-15	GPIO13	        46	GPIO41/ADC1
-16	GPIO14	        45	GPIO40/ADC0
-17	GPIO15	        44	GPIO39
-18	GPIO16	        43	GPIO38
-19	GPIO17	        42	GPIO37
-20	GPIO18	        41	GPIO36
-21	GPIO19	        40	GPIO35
-22	GND	            39	GND
-23	GPIO20	        38	GPIO34
-24	GPIO21	        37	GPIO33
-25	GPIO22	        36	GPIO32
-26	GPIO23	        35	GPIO31
-27	GPIO24	        34	GPIO30
-28	GPIO25	        33	GPIO29
-29	GPIO26	        32	GPIO28
-30	GPIO27	        31	RUN
+1	GPIO0	        64	VBUS
+2	GPIO1	        63	VSYS
+3	GND	            62	GND
+4	GPIO2	        61	3v3
+5	GPIO3	        60	3v3_EN
+6	GPIO4	        59	ADC_VREF
+7	GPIO5	        58	GPIO28
+8	GND	            57	GND
+9	GPIO6	        56	GPIO27
+10	GPIO7	        55	GPIO26
+11	GPIO8	        54	RUN
+12	GPIO9	        53	GPIO22
+13	GND 	        52	GND
+14	GPIO10	        51	GPIO21
+15	GPIO11	        50	GPIO20
+16	GPIO12	        49	GPIO19
+17	GPIO13	        48	GPIO18
+18	GND	            47	GND
+19	GPIO14	        46	GPIO17
+20	GPIO15	        45	GPIO16
+21	GPIO23	        44	GPIO47/ADC7
+22	GPIO24          43	GPIO46/ADC6
+23	GPIO25	        42	GPIO45/ADC5
+24	GPIO29	        41	GPIO44/ADC4
+25	GPIO30	        40	GPIO43/ADC3
+26	GPIO31	        39	GPIO42/ADC2
+27	GPIO32	        38	GPIO41/ADC1
+28	GPIO33	        37	GPIO40/ADC0
+29	GPIO34	        36	GPIO39
+30	GPIO35	        35	GPIO38
+31  GND             34  GND
+32  GPIO36          33  GPIO37
 ```
 
 ## Production files for JLCPCB
 
 The production files for JLCPCB are in the 'production' directory.
 
-RP2350_Dev_board.zip is the zipped Gerber files.
+pico-stretch.zip is the zipped Gerber files.
 
 bom.csv and positions.csv are the Bill of materials and placements files respectively.
