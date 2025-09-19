@@ -12507,9 +12507,9 @@
 		)
 		(uuid "7a139744-3f62-4efc-b073-23ec8f14df92")
 	)
-	(text "RP2350B"
+	(text "Pico Stretch RP2350B Devboard"
 		(exclude_from_sim no)
-		(at 126.238 32.004 0)
+		(at 57.658 28.448 0)
 		(effects
 			(font
 				(size 9.9822 9.9822)
@@ -12555,9 +12555,9 @@
 		)
 		(uuid "a8d70705-eb9c-4de3-90cd-571803347e5b")
 	)
-	(text "The MCU page was adapted from an EasyEDA open source design:\nhttps://pro.easyeda.com/editor#id=a0a21c97b13d436db5579fc2a8b1625d\n\nMost significant modification was to use 'basic' components wherever possible.\n\nPart recommendations for the inductor, flash and clock crystal were followed."
+	(text "Adapted from an EasyEDA open source design:\nhttps://pro.easyeda.com/editor#id=a0a21c97b13d436db5579fc2a8b1625d and\nthe Raspberry Pi Pico hardware design guide and reference designs.\n\nPart recommendations for the inductor, flash and clock crystal were followed."
 		(exclude_from_sim no)
-		(at 127 57.15 0)
+		(at 102.616 51.308 0)
 		(effects
 			(font
 				(size 2.4892 2.4892)
