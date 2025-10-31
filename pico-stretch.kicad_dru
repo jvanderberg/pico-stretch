@@ -1,0 +1,5 @@
+(version 1)
+ (rule "Allow castellated pads"
+     (condition "A.Type == 'pad'")
+     (constraint edge_clearance (min 0mm))
+  )
